@@ -1,6 +1,6 @@
 #include "StudentName.h"
-//Parametrize constructor
 
+//Parametrize constructor
 StudentName::StudentName(string s) {
     name = s;
     //delete the spaces in the front of the string if founded

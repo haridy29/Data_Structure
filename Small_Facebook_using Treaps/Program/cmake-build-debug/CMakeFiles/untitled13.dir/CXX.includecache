@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/haridy/CLionProjects/untitled13/TreapNode.h
+node.h
+C:/Users/haridy/CLionProjects/untitled13/node.h
+iostream
+-
+
+C:/Users/haridy/CLionProjects/untitled13/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+TreapNode.h
+C:/Users/haridy/CLionProjects/untitled13/TreapNode.h
+
+C:/Users/haridy/CLionProjects/untitled13/node.h
+iostream
+-
+
